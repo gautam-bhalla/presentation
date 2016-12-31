@@ -1,0 +1,69 @@
+{
+    "name": "Gautam Bhalla",
+    "children": [
+        {
+            "name": "OssCube",
+            "desc": "Software Engineer",
+            "start": "2012",
+            "end": "2013",
+            "children": [
+                {
+                    "name": "CMS",
+                    "children": [
+                        {
+                            "name": "Wordpress",
+                            "size": 2
+                        },
+                        {
+                            "name": "SugarCRM"
+                        }
+                    ]
+                },
+                {
+                    "name": "Languages",
+                    "children": [
+                        {
+                            "name": "PHP"
+                        },
+                        {
+                            "name": "Javascript"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Mallikarjun Technologies",
+            "start": "2014",
+            "end": "Present",
+            "children": [
+                {
+                    "name": "Tools",
+                    "children": [
+                        {
+                            "name": "Rasberry pie"
+                        },
+                        {
+                            "name": "Arduino"
+                        },
+                        {
+                            "name": "IFTTT"
+                        }
+                    ]
+                },
+                {
+                    "name": "Languages",
+                    "children": [
+                        {
+                            "name": "Java"
+                        },
+                        {
+                            "name": "Javascript",
+                            "size": 3
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
